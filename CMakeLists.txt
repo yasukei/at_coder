@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.2)
+project(atCoder)
+
+add_subdirectory(algo3/A_CaseSensitive)
+add_subdirectory(algo3/B_DynamicScoring)
+add_subdirectory(algo3/C_GeometricSequence)
+add_subdirectory(algo3/D_DisplayBoard)
+add_subdirectory(algo3/E_Sprinkler)
+add_subdirectory(algo3/F_PalindromeMatrix)
+add_subdirectory(algo3/G_GridGoldMove)
+add_subdirectory(algo3/N_SwapAndSort)
